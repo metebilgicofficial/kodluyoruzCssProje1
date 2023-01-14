@@ -27,8 +27,9 @@ p{
 }
 
 img {
-    border-image:repeat
+    border-image:repeat;
     border-color: black;
+    text-align: center;
     
 }
 .imglistcenter{
@@ -38,7 +39,7 @@ img {
 }
 h2 ol li{
     list-style: none;
-    list-style-position: inside
+    list-style-position: inside;
 }
 #adresstext{
     text-align: justify;
@@ -59,4 +60,12 @@ text-align: center;
 word-spacing: 30px;
 height: 25px;
 display: inline-block;
+
+}
+
+.images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120%;
 }

@@ -68,10 +68,12 @@ display: inline-block;
     margin-left: auto;
     margin-right: auto;
     width: 120%;
+    position: absolute;
 }
 .anasayfaresim{
     width: 150%;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    position: absolute;
 }
